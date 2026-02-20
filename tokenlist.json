@@ -1,6 +1,6 @@
 {
   "name": "BTJ Czechie King Josef Token List",
-  "logoURI": "https://btj.neotantra.cz/btj_logo.png",
+  "logoURI": "https://btj.neotantra.cz/btj_logo.png?v=2",
   "timestamp": "2026-02-15T08:08:30Z",
   "version": {
     "major": 1,
@@ -24,7 +24,7 @@
       "symbol": "BTJ_US",
       "name": "BTJ USD Token",
       "decimals": 6,
-      "logoURI": "https://btj.neotantra.cz/logo/btjus_logo.png",
+      "logoURI": "https://btj.neotantra.cz/logo/btjus_logo.png?v=2",
       "tags": [
         "btjus",
         "bitcion of us territoria"
@@ -36,7 +36,7 @@
       "symbol": "BTJ_EU",
       "name": "BTJ EUR Token",
       "decimals": 6,
-      "logoURI": "https://btj.neotantra.cz/logo/btjeu_logo.png",
+      "logoURI": "https://btj.neotantra.cz/logo/btjeu_logo.png?v=2",
       "tags": [
         "btjeu",
         "bitcoin of eu"
@@ -48,7 +48,7 @@
       "symbol": "BTJ_RU",
       "name": "BTJ RUB Token",
       "decimals": 6,
-      "logoURI": "https://btj.neotantra.cz/logo/btjru_logo.png",
+      "logoURI": "https://btj.neotantra.cz/logo/btjru_logo.png?v=2",
       "tags": [
         "btjru",
         "bitcoin of ru"
@@ -60,7 +60,7 @@
       "symbol": "BTJ_CZ",
       "name": "BTJ Czech King Josef Crown since 2026",
       "decimals": 6,
-      "logoURI": "https://btj.neotantra.cz/btj_logo.png",
+      "logoURI": "https://btj.neotantra.cz/btj_logo.png?v=2",
       "tags": [
         "btjcz",
         "neotantra",
@@ -76,7 +76,7 @@
       "symbol": "BTJ",
       "name": "BTJ",
       "decimals": 5,
-      "logoURI": "https://btj.neotantra.cz/logo/btj_logo.png",
+      "logoURI": "https://btj.neotantra.cz/logo/btj_logo.png?v=2",
       "tags": [
         "btj",
         "bitcoin of Czechie King Josef III Karel VI since 19-7-2026",
@@ -89,7 +89,7 @@
       "symbol": "BTT",
       "name": "BTT zlaty poklad 1g",
       "decimals": 5,
-      "logoURI": "https://btj.neotantra.cz/logo/btt_logo.png",
+      "logoURI": "https://btj.neotantra.cz/logo/btt_logo.png?v=2",
       "tags": [
         "btt",
         "bitcoin of btj bitcoins",
