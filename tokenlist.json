@@ -1,99 +1,100 @@
 {
-  "name": "BTJ Czechie King Josef Token List",
-  "logoURI": "https://btj.neotantra.cz/btj_logo.png?v=2",
+  "name": "BTJ Ecosystem Token List",
   "timestamp": "2026-02-15T08:08:30Z",
   "version": {
     "major": 1,
     "minor": 0,
-    "patch": 1
+    "patch": 2
   },
   "tags": {
     "btj": {
-      "name": "BTJ Eco",
-      "description": "Official BTJ OSN Prag eu ecosystem tokens neotantra.cz king@neotantra.cz"
+      "name": "BTJ Ecosystem",
+      "description": "Official BTJ ecosystem tokens"
     },
     "stable": {
-      "neotantra": "neotantra.cz",
       "name": "Stablecoin"
     }
   },
   "tokens": [
     {
       "chainId": 101,
+      "address": "5Xc1AycwC2ENTDWwGV41twqCyKkeoAfjnqLGMKKd7ytX",
+      "symbol": "BTM",
+      "name": "Bitcoin Treasury Machine",
+      "decimals": 9,
+      "logoURI": "https://btj.neotantra.cz/btj/logo/btm.png",
+      "tags": ["btj", "community", "solana"],
+      "extensions": {
+        "website": "https://btm.money",
+        "explorer": "https://solscan.io/token/5Xc1AycwC2ENTDWwGV41twqCyKkeoAfjnqLGMKKd7ytX"
+      }
+    },
+    {
+      "chainId": 101,
       "address": "AKHi7sPz9CXfohwj2JTME6NYcWjZJdQ1XPQRpxRaeagA",
-      "symbol": "BTJ_US",
+      "symbol": "BTJUS",
       "name": "BTJ USD Token",
       "decimals": 6,
-      "logoURI": "https://btj.neotantra.cz/logo/btjus_logo.png?v=2",
+      "logoURI": "https://btj.finance/logos/btjus.png",
       "tags": [
-        "btjus",
-        "bitcion of us territoria"
+        "btj",
+        "stable"
       ]
     },
     {
       "chainId": 101,
       "address": "4ZLSZut7NccSDDn2MTWfYCdGdc2wHe1LEx5yu2eVp6B3",
-      "symbol": "BTJ_EU",
+      "symbol": "BTJEU",
       "name": "BTJ EUR Token",
       "decimals": 6,
-      "logoURI": "https://btj.neotantra.cz/logo/btjeu_logo.png?v=2",
+      "logoURI": "https://btj.finance/logos/btjeu.png",
       "tags": [
-        "btjeu",
-        "bitcoin of eu"
+        "btj",
+        "stable"
       ]
     },
     {
       "chainId": 101,
       "address": "CLCJ7sPWNxmowLkekMVd15tBiEYy7xA8sAhEafcDeq9n",
-      "symbol": "BTJ_RU",
+      "symbol": "BTJRU",
       "name": "BTJ RUB Token",
       "decimals": 6,
-      "logoURI": "https://btj.neotantra.cz/logo/btjru_logo.png?v=2",
+      "logoURI": "https://btj.finance/logos/btjru.png",
       "tags": [
-        "btjru",
-        "bitcoin of ru"
+        "btj"
       ]
     },
     {
       "chainId": 101,
-      "address": "BHwwhu2Rz9toxBNKtD8bTY8XDWbh51PSHnH7nfUNUCHR",
-      "symbol": "BTJ_CZ",
-      "name": "BTJ Czech King Josef Crown since 2026",
-      "decimals": 6,
-      "logoURI": "https://btj.neotantra.cz/btj_logo.png?v=2",
+      "address": "HdBnru87UqTrCCW7DXQuVXxUA5TH1XjJ7KPsq7qubXxm",
+      "symbol": "BTJCZ",
+      "name": "BTJ Czech Crown",
+      "decimals": 5,
+      "logoURI": "https://btj.finance/logos/btjcz.png",
       "tags": [
-        "btjcz",
-        "neotantra",
-        "renessance family",
-        "peace prize Nobel",
-        "btj",
-        "bitcoin on solana"
+        "btj"
       ]
     },
     {
       "chainId": 101,
       "address": "B7P9z5ZPZoLFyhPJHpKrQvN435qCxYBjkhPDjKv7jNVy",
       "symbol": "BTJ",
-      "name": "BTJ",
+      "name": "BTJ Core Token",
       "decimals": 5,
-      "logoURI": "https://btj.neotantra.cz/logo/btj_logo.png?v=2",
+      "logoURI": "https://btj.finance/logos/btj.png",
       "tags": [
-        "btj",
-        "bitcoin of Czechie King Josef III Karel VI since 19-7-2026",
-        "neotantra"
+        "btj"
       ]
     },
     {
       "chainId": 101,
       "address": "FZLMcn3bjm78kMN7AqAXZEriB8GYeCkR6UtyrQAF1CWK",
       "symbol": "BTT",
-      "name": "BTT zlaty poklad 1g",
+      "name": "BTJ Factory Token",
       "decimals": 5,
-      "logoURI": "https://btj.neotantra.cz/logo/btt_logo.png?v=2",
+      "logoURI": "https://btj.finance/logos/btt.png",
       "tags": [
-        "btt",
-        "bitcoin of btj bitcoins",
-        "neotantra"
+        "btj"
       ]
     }
   ]
