@@ -24,11 +24,14 @@
       "symbol": "BTJ_US",
       "name": "BTJ USD Token",
       "decimals": 6,
-      "logoURI": "https://btj.neotantra.cz/logo/btjus_logo.png?v=2",
+      "logoURI": "https://cdn.jsdelivr.net/gh/CzechKIngJosef/neotantra@main/assets/logos/BTJUS.png",
       "tags": [
         "btjus",
         "bitcion of us territoria"
-      ]
+      ],
+      "extensions": {
+        "website": "https://www.neotantra.cz"
+      }
     },
     {
       "chainId": 101,
@@ -36,11 +39,14 @@
       "symbol": "BTJ_EU",
       "name": "BTJ EUR Token",
       "decimals": 6,
-      "logoURI": "https://btj.neotantra.cz/logo/btjeu_logo.png?v=2",
+      "logoURI": "https://cdn.jsdelivr.net/gh/CzechKIngJosef/neotantra@main/assets/logos/BTJEU.png",
       "tags": [
         "btjeu",
         "bitcoin of eu"
-      ]
+      ],
+      "extensions": {
+        "website": "https://www.neotantra.cz"
+      }
     },
     {
       "chainId": 101,
@@ -48,11 +54,14 @@
       "symbol": "BTJ_RU",
       "name": "BTJ RUB Token",
       "decimals": 6,
-      "logoURI": "https://btj.neotantra.cz/logo/btjru_logo.png?v=2",
+      "logoURI": "https://cdn.jsdelivr.net/gh/CzechKIngJosef/neotantra@main/assets/logos/BTJRU.png",
       "tags": [
         "btjru",
         "bitcoin of ru"
-      ]
+      ],
+      "extensions": {
+        "website": "https://www.neotantra.cz"
+      }
     },
     {
       "chainId": 101,
@@ -60,7 +69,7 @@
       "symbol": "BTJ_CZ",
       "name": "BTJ Czech King Josef Crown since 2026",
       "decimals": 6,
-      "logoURI": "https://btj.neotantra.cz/btj_logo.png?v=2",
+      "logoURI": "https://cdn.jsdelivr.net/gh/CzechKIngJosef/neotantra@main/assets/logos/BTJCZ.png",
       "tags": [
         "btjcz",
         "neotantra",
@@ -68,7 +77,10 @@
         "peace prize Nobel",
         "btj",
         "bitcoin on solana"
-      ]
+      ],
+      "extensions": {
+        "website": "https://www.neotantra.cz"
+      }
     },
     {
       "chainId": 101,
@@ -81,7 +93,10 @@
         "btj",
         "bitcoin of Czechie King Josef III Karel VI since 19-7-2026",
         "neotantra"
-      ]
+      ],
+      "extensions": {
+        "website": "https://www.neotantra.cz"
+      }
     },
     {
       "chainId": 101,
@@ -94,7 +109,10 @@
         "btt",
         "bitcoin of btj bitcoins",
         "neotantra"
-      ]
+      ],
+      "extensions": {
+        "website": "https://www.neotantra.cz"
+      }
     }
   ]
 }
