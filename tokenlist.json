@@ -1,100 +1,99 @@
 {
-  "name": "BTJ Ecosystem Token List",
+  "name": "BTJ Czechie King Josef Token List",
+  "logoURI": "https://btj.neotantra.cz/btj_logo.png?v=2",
   "timestamp": "2026-02-15T08:08:30Z",
   "version": {
     "major": 1,
     "minor": 0,
-    "patch": 2
+    "patch": 1
   },
   "tags": {
     "btj": {
-      "name": "BTJ Ecosystem",
-      "description": "Official BTJ ecosystem tokens"
+      "name": "BTJ Eco",
+      "description": "Official BTJ OSN Prag eu ecosystem tokens neotantra.cz king@neotantra.cz"
     },
     "stable": {
+      "neotantra": "neotantra.cz",
       "name": "Stablecoin"
     }
   },
   "tokens": [
     {
       "chainId": 101,
-      "address": "5Xc1AycwC2ENTDWwGV41twqCyKkeoAfjnqLGMKKd7ytX",
-      "symbol": "BTM",
-      "name": "Bitcoin Treasury Machine",
-      "decimals": 9,
-      "logoURI": "https://btj.neotantra.cz/btj/logo/btm.png",
-      "tags": ["btj", "community", "solana"],
-      "extensions": {
-        "website": "https://btm.money",
-        "explorer": "https://solscan.io/token/5Xc1AycwC2ENTDWwGV41twqCyKkeoAfjnqLGMKKd7ytX"
-      }
-    },
-    {
-      "chainId": 101,
       "address": "AKHi7sPz9CXfohwj2JTME6NYcWjZJdQ1XPQRpxRaeagA",
-      "symbol": "BTJUS",
+      "symbol": "BTJ_US",
       "name": "BTJ USD Token",
       "decimals": 6,
-      "logoURI": "https://btj.finance/logos/btjus.png",
+      "logoURI": "https://btj.neotantra.cz/logo/btjus_logo.png?v=2",
       "tags": [
-        "btj",
-        "stable"
+        "btjus",
+        "bitcion of us territoria"
       ]
     },
     {
       "chainId": 101,
       "address": "4ZLSZut7NccSDDn2MTWfYCdGdc2wHe1LEx5yu2eVp6B3",
-      "symbol": "BTJEU",
+      "symbol": "BTJ_EU",
       "name": "BTJ EUR Token",
       "decimals": 6,
-      "logoURI": "https://btj.finance/logos/btjeu.png",
+      "logoURI": "https://btj.neotantra.cz/logo/btjeu_logo.png?v=2",
       "tags": [
-        "btj",
-        "stable"
+        "btjeu",
+        "bitcoin of eu"
       ]
     },
     {
       "chainId": 101,
       "address": "CLCJ7sPWNxmowLkekMVd15tBiEYy7xA8sAhEafcDeq9n",
-      "symbol": "BTJRU",
+      "symbol": "BTJ_RU",
       "name": "BTJ RUB Token",
       "decimals": 6,
-      "logoURI": "https://btj.finance/logos/btjru.png",
+      "logoURI": "https://btj.neotantra.cz/logo/btjru_logo.png?v=2",
       "tags": [
-        "btj"
+        "btjru",
+        "bitcoin of ru"
       ]
     },
     {
       "chainId": 101,
-      "address": "HdBnru87UqTrCCW7DXQuVXxUA5TH1XjJ7KPsq7qubXxm",
-      "symbol": "BTJCZ",
-      "name": "BTJ Czech Crown",
-      "decimals": 5,
-      "logoURI": "https://btj.finance/logos/btjcz.png",
+      "address": "BHwwhu2Rz9toxBNKtD8bTY8XDWbh51PSHnH7nfUNUCHR",
+      "symbol": "BTJ_CZ",
+      "name": "BTJ Czech King Josef Crown since 2026",
+      "decimals": 6,
+      "logoURI": "https://btj.neotantra.cz/btj_logo.png?v=2",
       "tags": [
-        "btj"
+        "btjcz",
+        "neotantra",
+        "renessance family",
+        "peace prize Nobel",
+        "btj",
+        "bitcoin on solana"
       ]
     },
     {
       "chainId": 101,
       "address": "B7P9z5ZPZoLFyhPJHpKrQvN435qCxYBjkhPDjKv7jNVy",
       "symbol": "BTJ",
-      "name": "BTJ Core Token",
+      "name": "BTJ",
       "decimals": 5,
-      "logoURI": "https://btj.finance/logos/btj.png",
+      "logoURI": "https://cdn.jsdelivr.net/gh/CzechKIngJosef/neotantra@main/assets/logos/BTJ.png",
       "tags": [
-        "btj"
+        "btj",
+        "bitcoin of Czechie King Josef III Karel VI since 19-7-2026",
+        "neotantra"
       ]
     },
     {
       "chainId": 101,
       "address": "FZLMcn3bjm78kMN7AqAXZEriB8GYeCkR6UtyrQAF1CWK",
       "symbol": "BTT",
-      "name": "BTJ Factory Token",
+      "name": "BTT zlaty poklad 1g",
       "decimals": 5,
-      "logoURI": "https://btj.finance/logos/btt.png",
+      "logoURI": "https://cdn.jsdelivr.net/gh/CzechKIngJosef/neotantra@main/assets/logos/BTT.png",
       "tags": [
-        "btj"
+        "btt",
+        "bitcoin of btj bitcoins",
+        "neotantra"
       ]
     }
   ]
